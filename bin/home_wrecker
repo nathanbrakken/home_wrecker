@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'home_wrecker'
+
+HomeWrecker.start(ARGV)
