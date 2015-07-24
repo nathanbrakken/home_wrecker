@@ -26,6 +26,10 @@ open the config.rb file that was created and update for your needs
   $verbose = false
   $seconds = '3'
 ```
+run the home_wrecker wreck command
+```sh
+$ home_wrecker wreck
+```
 output should be
 ```sh
 $ hitting https://api.example.com/users/13 for 3 seconds
