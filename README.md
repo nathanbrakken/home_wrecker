@@ -2,6 +2,7 @@
 home_wrecker is a gem meant for load testing that utilizes siege https://www.joedog.org/siege-home/
 
 Make sure you have siege installed with `brew install siege` or some other flavor of install
+
 This is currently working with siege 3.0.7, ruby 2.0.1
 
 
@@ -45,6 +46,7 @@ then a fomatted html file should open, showing you the results of the test
 
 ## TODO:
 Find a better way to assign the variables.  Globals probably aren't the best. Perhaps a yml file?
+
 Prettier html
 Remove verbose option and use javascript to hide / show requests
 
