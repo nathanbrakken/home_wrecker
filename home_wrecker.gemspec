@@ -2,8 +2,8 @@ Gem::Specification.new do |s|
   s.name        = 'home_wrecker'
   s.version     = '0.0.5'
   s.date        = '2015-07-23'
-  s.summary     = "Hola!"
-  s.description = "A load testing gem that compares two sites using Siege"
+  s.summary     = "A load testing gem using Siege"
+  s.description = "A load testing gem that compares one or many sites using Siege."
   s.authors     = ["Nathan Brakken"]
   s.email       = "nathanbrakken@gmail.com"
   s.files       = ["lib/home_wrecker.rb"]
