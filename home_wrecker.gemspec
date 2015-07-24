@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'home_wrecker'
-  s.version     = '0.0.5'
+  s.version     = '0.0.6'
   s.date        = '2015-07-23'
   s.summary     = "A load testing gem using Siege"
   s.description = "A load testing gem that compares one or many sites using Siege."
