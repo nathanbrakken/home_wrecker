@@ -8,9 +8,11 @@ This is currently working with siege 3.0.7, ruby 2.0.1
 
 install the gem
 ```sh
-  $ gem install home_wrecker`
+  $ gem install home_wrecker
 ```
-
+```sh
+  $ home_wrecker
+```
 you should see
   ```sh
   $ confing file created. Please update config.rb and try again
